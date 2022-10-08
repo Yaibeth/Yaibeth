@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Yaibeth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Yaibeth/Yaibeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Test and Storybook, Javasript, Typescript, Node.js, PHP
+- 💞️ I’m looking to collaborate on  AZORDEV
+- 📫 How to reach me  simo.yaibethsimo.yaibeth@gmail.com
